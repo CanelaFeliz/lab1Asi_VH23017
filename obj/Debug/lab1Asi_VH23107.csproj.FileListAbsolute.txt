@@ -1,0 +1,11 @@
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\bin\Debug\lab1Asi_VH23107.exe.config
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\bin\Debug\lab1Asi_VH23107.exe
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\bin\Debug\lab1Asi_VH23107.pdb
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.csproj.AssemblyReference.cache
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.Factura.resources
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.frmPrincipal.resources
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.Properties.Resources.resources
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.csproj.GenerateResource.cache
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.csproj.CoreCompileInputs.cache
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.exe
+C:\Users\Galleta\Desktop\lab1Asi_VH23107\obj\Debug\lab1Asi_VH23107.pdb
